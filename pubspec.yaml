@@ -1,7 +1,7 @@
 name: futuristic_ui
 description: Providing a futuristic design
 version: 0.0.1
-homepage:
+homepage: https://github.com/Kuma-deve/futuristic_ui
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
